@@ -1,0 +1,23 @@
+/* Reset*/
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Playpen+Sans:wght@300;400;500&display=swap');
+*{
+box-sizing: border-box;
+}
+
+html{
+    font-family: 'Playpen Sans', cursive;
+}
+
+h1,h2,h3,p,ul{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+button{
+    border: none;
+    cursor: pointer;
+    font-family: inherit;
+}
+
